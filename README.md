@@ -29,11 +29,9 @@ The system provides user authentication, file management, shareable links, and c
 - HTML5
 - CSS3
 - Bootstrap 5
-- JavaScript
 
 ### Backend
 - Python
-- Flask
 
 ### Database
 - SQLite
@@ -129,7 +127,9 @@ https://cloud-file-upload-system-ao6x.onrender.com
 
 ## Author
 
-**Sibtain Siddique & TEAM**
+**Sibtain Siddique**
+**Rajeev Sharma**
+**Akib Afsar Khan**
 
 Bachelor of Computer Applications (BCA)
 
